@@ -1,3 +1,3 @@
 # Sea Level Predictor
 
-This is the boilerplate for the Sea Level Predictor project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
+This program was produced as part of the Data Analysis with Python course on freeCodeCamp.org. Created by Jacob Hexamer.
